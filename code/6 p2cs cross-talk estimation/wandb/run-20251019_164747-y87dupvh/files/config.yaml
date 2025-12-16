@@ -1,0 +1,55 @@
+_wandb:
+    value:
+        cli_version: 0.20.1
+        m: []
+        python_version: 3.10.18
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+            "2":
+                - 1
+                - 5
+                - 11
+                - 49
+                - 53
+            "3":
+                - 2
+                - 16
+                - 55
+            "4": 3.10.18
+            "5": 0.20.1
+            "6": 4.48.1
+            "8":
+                - 1
+            "12": 0.20.1
+            "13": linux-x86_64
+adversarial_training:
+    value: true
+adversary_batch_size:
+    value: 32
+adversary_lambda:
+    value: 10
+early_stopping_patience:
+    value: 150
+epochs:
+    value: 150
+evaluate_accuracy:
+    value: true
+freeze_dualheadadapter:
+    value: false
+gamma_initial:
+    value: 0
+organism_complete_batching:
+    value: true
+separate_adversary_in_warmup:
+    value: false
+use_distance_matrix:
+    value: false
+use_vae_mu:
+    value: false
+warmup_epochs:
+    value: 15

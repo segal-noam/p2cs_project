@@ -1,0 +1,27 @@
+{
+  "os": "Linux-5.15.0-139-generic-x86_64-with-glibc2.31",
+  "python": "CPython 3.10.18",
+  "startedAt": "2025-10-30T07:56:56.409343Z",
+  "program": "/zdata/user-data/noam/code/P2CS/4 p2cs cross-talk estimation/train_p2csCLIP.ipynb",
+  "codePath": "train_p2csCLIP.ipynb",
+  "email": "wsegalnoam@gmail.com",
+  "root": "/zdata/user-data/noam/code/P2CS/4 p2cs cross-talk estimation",
+  "host": "bi-kishony-lins",
+  "executable": "/zdata/user-data/noam/.conda/envs/python310/bin/python",
+  "codePathLocal": "train_p2csCLIP.ipynb",
+  "cpu_count": 16,
+  "cpu_count_logical": 32,
+  "disk": {
+    "/": {
+      "total": "135570391040",
+      "used": "21586116608"
+    }
+  },
+  "memory": {
+    "total": "269858148352"
+  },
+  "cpu": {
+    "count": 16,
+    "countLogical": 32
+  }
+}

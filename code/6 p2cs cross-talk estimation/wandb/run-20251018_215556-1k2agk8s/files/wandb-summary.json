@@ -1,0 +1,1 @@
+{"combined_loss":0.11688353918078873,"learning_rate":0,"epoch":7,"train_loss":0,"_wandb":{"runtime":19},"adversary_loss":0.11688353918078873,"gamma":0,"_timestamp":1.7608137763382518e+09,"val_accuracy":0.8458254337310791,"_runtime":19.551472379,"val_loss":0.732912253588438,"_step":6}

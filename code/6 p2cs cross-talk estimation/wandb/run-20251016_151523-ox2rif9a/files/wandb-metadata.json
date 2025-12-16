@@ -1,0 +1,32 @@
+{
+  "os": "Linux-5.15.0-139-generic-x86_64-with-glibc2.31",
+  "python": "CPython 3.10.18",
+  "startedAt": "2025-10-16T12:15:24.208684Z",
+  "args": [
+    "--random-search",
+    "--max-combinations",
+    "10"
+  ],
+  "program": "/zdata/user-data/noam/code/P2CS/4 p2cs cross-talk estimation/hyperparameter_search.py",
+  "codePath": "hyperparameter_search.py",
+  "email": "wsegalnoam@gmail.com",
+  "root": "/zdata/user-data/noam/code/P2CS/4 p2cs cross-talk estimation",
+  "host": "bi-kishony-lins",
+  "executable": "/zdata/user-data/noam/.conda/envs/python310/bin/python",
+  "codePathLocal": "hyperparameter_search.py",
+  "cpu_count": 16,
+  "cpu_count_logical": 32,
+  "disk": {
+    "/": {
+      "total": "135762935808",
+      "used": "21578121216"
+    }
+  },
+  "memory": {
+    "total": "269858148352"
+  },
+  "cpu": {
+    "count": 16,
+    "countLogical": 32
+  }
+}

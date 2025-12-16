@@ -42,11 +42,26 @@ Thumbs.db
 # *.pickle
 
 # Model files (uncomment if you don't want to track model files)
-# *.pt
-# *.pth
-# *.ckpt
-# *.model
+*.pt
+*.pth
+*.ckpt
+*.model
 
 # Logs
+*.log
+
+# Cached embeddings and large data files
+code/*/cached_embeddings/
+*.pkl
+*.pickle
+
+# Data files - exclude from tracking
+*.csv
+*.tsv
+*.fasta
+*.fa
+*.fastq
+*.fq
+*.txt
 *.log
 

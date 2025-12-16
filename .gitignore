@@ -1,0 +1,52 @@
+# Data folder - ignore all data files
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (uncomment if needed)
+# *.csv
+# *.tsv
+# *.h5
+# *.hdf5
+# *.pkl
+# *.pickle
+
+# Model files (uncomment if you don't want to track model files)
+# *.pt
+# *.pth
+# *.ckpt
+# *.model
+
+# Logs
+*.log
+

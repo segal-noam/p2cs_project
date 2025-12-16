@@ -65,3 +65,12 @@ code/*/cached_embeddings/
 *.txt
 *.log
 
+# Image files - exclude from tracking
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.gif
+*.bmp
+*.webp
+
